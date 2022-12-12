@@ -1,5 +1,5 @@
 # tindog
-Website to demonstrate HTML, advanced CSS, and some advanced Bootstrap practices.
+Website to demonstrate HTML, intermediate CSS, and some intermediate Bootstrap practices.
 
 This is a sample webpage that demonstrates the above. launch the program from index.html.
 

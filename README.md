@@ -1,4 +1,6 @@
 # tindog
+https://jcarn760.github.io/tindog/
+
 Website to demonstrate HTML, intermediate CSS, and some intermediate Bootstrap practices.
 very interactive webpage that adjusts to different screen sizes properly and can navigate you quickly throughout the
 web page to different sections by clicking items in the header.
